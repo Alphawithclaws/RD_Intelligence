@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-09-19T00:58:07.583529",
+  "yesterday": "2026-09-18",
+  "today": "2026-09-19",
+  "retailers": {
+    "reliance": {
+      "retailer": "reliance",
+      "status": "ok",
+      "yesterday_count": 88,
+      "today_count": 88,
+      "new_products": [],
+      "removed_products": [],
+      "price_changes": []
+    },
+    "vijay_sales": {
+      "retailer": "vijay_sales",
+      "status": "ok",
+      "yesterday_count": 102,
+      "today_count": 102,
+      "new_products": [],
+      "removed_products": [],
+      "price_changes": []
+    },
+    "croma": {
+      "retailer": "croma",
+      "status": "source_unavailable",
+      "yesterday_count": 9,
+      "today_count": null,
+      "new_products": [],
+      "removed_products": [],
+      "price_changes": []
+    }
+  }
+}

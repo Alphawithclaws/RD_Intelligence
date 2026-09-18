@@ -1,0 +1,26 @@
+{
+  "generated_by": "Claude",
+  "matching_method": "Claude model matching + Python validation",
+  "categories": [
+    {
+      "category": "Laptops",
+      "matches": []
+    },
+    {
+      "category": "Televisions",
+      "matches": []
+    },
+    {
+      "category": "Air Conditioners",
+      "matches": []
+    },
+    {
+      "category": "Washing Machines",
+      "matches": []
+    },
+    {
+      "category": "Mobiles",
+      "matches": []
+    }
+  ]
+}
